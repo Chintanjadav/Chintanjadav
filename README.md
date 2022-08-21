@@ -15,4 +15,4 @@
 ![Gulp](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/gulp.png "gulp")
 ![React](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/react.svg "React")
 ![Node](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/node.png "Node")
-![Mongodb](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/mongodb.png "Mongodb")
+![Mongodb](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/mongodb.svg "Mongodb")
