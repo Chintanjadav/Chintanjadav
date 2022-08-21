@@ -11,3 +11,8 @@
 ![Tailwind CSS](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/tailwind.png "Tailwind CSS")
 ![SCSS](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/sass.svg "SASS")
 ![Javascript](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/js.png "JAVASCRIPT")
+![jQuery](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/jquery.svg "jQuery")
+![Gulp](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/gulp.png "gulp")
+![React](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/react.svg "React")
+![Node](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/node.png "Node")
+![Mongodb](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/mongodb.png "Mongodb")
