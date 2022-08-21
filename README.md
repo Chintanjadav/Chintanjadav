@@ -27,4 +27,4 @@
 
 #### GitHub Stats
 
-[![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chintanjadav)](https://github.com/anuraghazra/github-readme-stats)
+[![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chintanjadav)](https://github.com/Chintanjadav/github-readme-stats)
