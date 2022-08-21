@@ -24,3 +24,7 @@
 [![Youtube](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/youtube.svg "Youtube")](https://www.youtube.com/channel/UCzk-Ck1hnzEl44Y7PASfA7Q)
 [![Codepen](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/codepen.svg "Codepen")](https://codepen.io/WebsCodeMedia)
 [![Linkedin](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/linkedin.svg "Linkedin")](https://in.linkedin.com/in/chintan-jadav-055221136?trk=public_profile_samename-profile)
+
+#### GitHub Stats
+
+[![Chintan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chintanjadav)](https://github.com/anuraghazra/github-readme-stats)
