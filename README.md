@@ -21,6 +21,6 @@
 
 #### Connect with me:
 
-![Youtube](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/youtube.svg)[(Youtube)](https://www.youtube.com/channel/UCzk-Ck1hnzEl44Y7PASfA7Q)
+![Youtube](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/youtube.svg "https://www.youtube.com/channel/UCzk-Ck1hnzEl44Y7PASfA7Q")
 ![Codepen](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/codepen.svg "Codepen")
 ![Linkedin](https://github.com/Chintanjadav/Chintanjadav/blob/main/icons/linkedin.svg "Linkedin")
